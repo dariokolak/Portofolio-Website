@@ -1,0 +1,29 @@
+.section {
+  padding: 9.6rem 0 0 0;
+  position: relative;
+}
+
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 0 3.2rem;
+}
+
+.grid {
+  display: grid;
+  column-gap: 6.4rem;
+  row-gap: 9.6rem;
+  grid-template-columns: repeat(2, 1fr);
+  padding-top: 100px;
+}
+
+.selectedProjectHeadline {
+  font-weight: 300;
+  font-size: 50px;
+  text-align: center;
+}
+.aboutmeheadliner2 {
+  font-weight: 300;
+  font-size: 50px;
+  text-align: center;
+}

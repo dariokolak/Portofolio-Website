@@ -1,0 +1,34 @@
+.header {
+  height: 100vh;
+  background-image: url(../../assets/hero.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.logo {
+  background-image: url(../../assets/logo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  left: 8.5%;
+  top: 8%;
+  height: 100px;
+  width: 70px;
+}
+
+.headliners {
+  position: absolute;
+  top: 53%;
+  left: 10%;
+}
+
+.headliners h1 {
+  font-weight: 700;
+  font-size: 90px;
+}
+
+.headliners h2 {
+  font-weight: 500;
+  font-size: 50px;
+}
